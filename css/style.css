@@ -58,9 +58,18 @@ img{
 
   #fb{
       color: #1877F2;
+      background-color: #fff;
+   border-radius: 7px;
+   display: inline-block;
+   line-height: 25px;
+   outline-width: 27px;
   }
 #reddit{
     color: #FF5700;
+    background-color: #fff;
+    border-radius: 10px;
+    display: inline-block;
+    line-height: 20px;
 }
 .profileText{
     margin-bottom: 20px;
