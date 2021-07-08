@@ -50,6 +50,10 @@ img{
   } */
   #linkedin{
     color: #0A66C2;
+    background-color: #fff;
+   border-radius: 10px;
+   display: inline-block;
+   line-height: 20px;
   }
 
   #fb{
